@@ -8,7 +8,7 @@ title:           akbar rizqi luhur p
 tagline:          'blog'
 description:      'My personal blog.'
 url:              http://camporez.github.io
-baseurl:          /blog
+baseurl:          /blogs
 commentsystem:    google
 disqus:           example
 
