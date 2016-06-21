@@ -7,14 +7,14 @@ permalink:	/:title
 title:           akbar rizqi luhur p
 tagline:          'blog'
 description:      'My personal blog.'
-url:              http://camporez.github.io
+url:              http://kikicr.github.io/blogs
 baseurl:          /blogs
 commentsystem:    google
 disqus:           example
 
 author:
   name:           akbar rizqi luhur p
-  url:            https://google.com/+IanCamporezBrunelli
+  url:            https://plus.google.com/u/0/116028509437214132130/posts
 
 paginate:         5
 
@@ -23,21 +23,15 @@ icon:             /blog/assets/images/icon.png
 cover:            /blog/assets/images/cover.png
 
 social:
-  - icon:         twitter
-    url:          https://twitter.com/iancamporez
-    desc:         Follow me on twitter
 
   - icon:         github
-    url:          https://github.com/camporez
+    url:          https://github.com/kikicr
     desc:         Fork me on github
 
   - icon:         googleplus-alt
-    url:          https://google.com/+IanCamporezBrunelli
+    url:          https://plus.google.com/u/0/116028509437214132130/posts
     desc:         Add me on google+
 
-  - icon:         feed
-    url:          http://camporez.github.io/atom.xml
-    desc:         Subscribe to my feed
 
 menu:
   - title:        Home
@@ -47,8 +41,8 @@ menu:
     url:          /about
 
 copyright:
-  author:         Camporez
-  url:            http://camporez.github.io
+  author:        Akbar Rizqi
+  url:            http://kikicr.github.io/blogs
   type_title:     Some rights reserved
   type_url:       http://creativecommons.org/licenses/by-nc/2.5
 
