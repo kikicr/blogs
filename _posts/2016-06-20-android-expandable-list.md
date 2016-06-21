@@ -3,7 +3,7 @@ layout: post
 title: "Android Expandable ListView "
 quote: "list with parrent"
 image:
-      url: blogs/assets/images/get-start-ionic/cover.png
+      url: /blogs/assets/images/get-start-ionic/cover.png
       
       
 video: false

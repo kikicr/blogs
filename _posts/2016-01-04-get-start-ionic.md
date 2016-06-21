@@ -3,7 +3,7 @@ layout: post
 title: "getting started ionic framework"
 quote: "some beautiful ways to make hybrid mobile apps"
 image:
-      url: blogs/assets/images/get-start-ionic/cover.png
+      url: /blogs/assets/images/get-start-ionic/cover.png
       
       
 video: false
