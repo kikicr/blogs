@@ -10,7 +10,7 @@ video: false
 comments: true
 theme_color: 302F2D
 ---
-#apa itu?
+# apa itu?
 expandable list view , bisa dibilang sebagai <b>group listview</b> , atau <b>listview</b> yang di group-group kan ,
 atau listview yang setiap item nya memiliki anak lagi didalamnya
 
@@ -47,7 +47,7 @@ seperti itu , jadi awal nya ada 3 item di list tersebut yaitu list kelas 1 , kel
 child-child dari kelas tersebut ,misal <b>kelas 3 : [kelas 3-A,kelas 3-B , kelas-C]</b>
 
 
-#konsep listview pada android
+# konsep listview pada android
 pada android untuk dapat menghasilkan sebuat listview , kita memerlukan :
 <ol>
     <li>
